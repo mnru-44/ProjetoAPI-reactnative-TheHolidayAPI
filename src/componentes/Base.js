@@ -49,7 +49,7 @@ export function Base() {
 	return (
 		<ScrollView style={{ backgroundColor: '#141414' }}>
             <View style={{ padding: 20 }}>
-                <Text style={{ color: 'white', fontSize: 20 }}>Dupla: Carlos Emanuel e Maria Laylla | Turma 513</Text>
+                <Text style={{ color: 'white', fontSize: 20 }}>Dupla: Carlos Emanuel e Maria Laylla | Turma - 513</Text>
                 <Text style={{ fontSize: 35, marginBottom: 10, color: 'white' }}>Feriados em 2023:</Text>
                 <TextInput 
                     placeholder="Ano"
